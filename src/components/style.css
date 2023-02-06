@@ -1,0 +1,41 @@
+*{
+    background-color: #FCC101;
+}
+.card{
+    border: 2px solid black;
+    width: 80%;
+    /* margin: 50px; */
+    background-color: #FEE1A5;
+    margin-bottom: 5px;
+}
+.card h1, .card img{
+    background-color: #FEE1A5;
+}
+
+.pokeDetail{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.left{
+    /* border: 2px solid black; */
+    width: 50%;
+    margin-left: -100px;
+    padding: 0;
+}
+
+
+
+.box{
+display: flex;
+justify-content: space-evenly;
+}
+
+.btn{
+    width: 80px;
+    padding: 8px;
+    margin: 4px;
+    border-color: tomato;
+
+}
