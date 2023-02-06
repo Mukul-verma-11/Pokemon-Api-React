@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+deployed on => https://delightful-centaur-4543a4.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
